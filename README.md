@@ -23,6 +23,7 @@ AWS IoT 1-Click アプリをアップルストア又は、GooglePlayから自分
 トークンは、マイページの「アクセストークンの発行(開発者向け)」以下の「トークンを発行する」ボタンから発行できます。
 [https://notify-bot.line.me]
 トークン発行後、設定したルームに LINE notify を招待します。
+
 #<b>③コマンドラインからトークンをPOSTする</b>
 リナックスからはカールコマンドでPOSTします。
 Windowsの場合 curl コマンドをダウンロードしてインストールしてください。[https://notify-bot.line.me]
